@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/geli2001-tft-mcp-server-badge.png)](https://mseep.ai/app/geli2001-tft-mcp-server)
+
 # TFT MCP Server
 
 This is a Model Context Protocol (MCP) server for Team Fight Tactics (TFT) that provides access to TFT game data through various tools.
